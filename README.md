@@ -1,2 +1,5 @@
 # hello-word
- primeiro repositorio versionado de GIT e GitHub
+ Primeiro repositorio versionado de Git e GitHub
+
+
+Repositório criado durante uma aula ao vivo
